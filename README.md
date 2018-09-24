@@ -1,3 +1,25 @@
 # SPA (single page web application)
 web特有的一种应用  
 基于ajax的出现而实现的应用  
+1. SPA是什么？  
+    >单页Web应用（single page web application，SPA），就是只有一张Web页面的应用，是加载单个HTML 页面并在用户与应用程序交互时动态更新该页面的Web应用程序。 - 百度百科
+    - 多页面与单页面的区别
+2. SPA的历史
+    - 1998年 Ajax 技术诞生  
+      >fetch 可以理解为经过Promise封装过的ajax
+    - 2014 HTML5.0 发布
+      >让单页面应用的另一重要部分：“路由” 得以完善
+3. SPA应用的实现
+    1. 原生实现  
+       - hash
+         >https://developer.mozilla.org/zh-CN/docs/Web/API/Window/onhashchange
+          1. hashchange
+          2. location.hash
+    
+       - H5 history API
+         >https://developer.mozilla.org/zh-CN/docs/Web/API/History_API 
+          1. popstate
+          2. pushState
+          3. replaceState  
+       
+    2. react实现  
