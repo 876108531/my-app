@@ -4,6 +4,7 @@ web特有的一种应用
 1. SPA是什么？  
     >单页Web应用（single page web application，SPA），就是只有一张Web页面的应用，是加载单个HTML 页面并在用户与应用程序交互时动态更新该页面的Web应用程序。 - 百度百科
     - 多页面与单页面的区别
+    ![](https://github.com/876108531/my-app/blob/dev_0.1_add_router/src/image/diff.png)
 2. SPA的历史
     - 1998年 Ajax 技术诞生  
       >fetch 可以理解为经过Promise封装过的ajax
