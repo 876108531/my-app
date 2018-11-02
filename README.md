@@ -11,6 +11,9 @@ web特有的一种应用
     - 2014 HTML5.0 发布
       >让单页面应用的另一重要部分：“路由” 得以完善
 3. SPA应用的实现
+    hash与h5的区别 
+        1. location.hash  location.pathname
+        2. 请求方式 服务端配置不同
     1. 原生实现  
        - hash
          >https://developer.mozilla.org/zh-CN/docs/Web/API/Window/onhashchange
