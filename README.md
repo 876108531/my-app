@@ -26,3 +26,6 @@ web特有的一种应用
         - react-router
             > https://reacttraining.com/react-router/
             1. Router
+        - redux
+            > https://cn.redux.js.org/
+            
