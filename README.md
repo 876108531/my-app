@@ -19,8 +19,11 @@ web特有的一种应用
        - H5 history API
          >https://developer.mozilla.org/zh-CN/docs/Web/API/History_API 
           1. popstate
+          
           2. pushState
-          3. replaceState  
+          3. replaceState
+          4. back()、forward()、 go()
+          
        
     2. react实现  
         - react-router
@@ -28,4 +31,5 @@ web特有的一种应用
             1. Router
         - redux
             > https://cn.redux.js.org/
+            
             
