@@ -14,7 +14,7 @@ web特有的一种应用
     hash与h5的区别 
         1. location.hash  location.pathname
         2. 请求方式 服务端配置不同
-    1. 原生实现  
+    1. 原生实现  https://github.com/876108531/my-app-js
        - hash
          >https://developer.mozilla.org/zh-CN/docs/Web/API/Window/onhashchange
           1. hashchange
